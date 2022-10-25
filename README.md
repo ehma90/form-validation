@@ -20,7 +20,7 @@
 
 ## Github Page
 
-Here is a link to my github page https://ehma90.github.io/Tech-AI-Conference/
+Here is a link to my [github page](https://ehma90.github.io/form-validation/) 
 
 ## Show your support
 
